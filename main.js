@@ -9,7 +9,7 @@ let audio = document.getElementById("music")
 let timeleft = 5
 let scoreDisplay = 0
 
-const words = ["Jack", "Python", "Carry", "Asus", "Dell", "Hp", "Acer", "Hulk", "Ironman", "Thor"]
+const words = ["Jack", "Python", "Carry", "Asus", "Dell", "MSI", "Acer", "Hulk", "Ironman", "Thor"]
 
 function showWords(words) {
 
